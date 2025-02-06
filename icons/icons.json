@@ -1,6 +1,74 @@
 {
     "icons": [
         {
+            "id": "coffee",
+            "name": "Coffee"
+        },
+        {
+            "id": "restaurant",
+            "name": "Restaurant"
+        },
+        {
+            "id": "food",
+            "name": "Food"
+        },
+        {
+            "id": "toilets",
+            "name": "Toilets"
+        },
+        {
+            "id": "male-toilet",
+            "name": "Male toilet"
+        },
+        {
+            "id": "woman-toilet",
+            "name": "Woman toilet"
+        },
+        {
+            "id": "entrance",
+            "name": "Entrance"
+        },
+        {
+            "id": "sanitizer",
+            "name": "Sanitizer"
+        },
+        {
+            "id": "lounge",
+            "name": "Lounge"
+        },
+        {
+            "id": "elevator",
+            "name": "Elevator"
+        },
+        {
+            "id": "info-booth",
+            "name": "Info booth"
+        },
+        {
+            "id": "registration",
+            "name": "Registration"
+        },
+        {
+            "id": "escalator-up",
+            "name": "Escalator up"
+        },
+        {
+            "id": "escalator-down",
+            "name": "Escalator down"
+        },
+        {
+            "id": "escalator",
+            "name": "Escalator"
+        },
+        {
+            "id": "stairs",
+            "name": "Stairs"
+        },
+        {
+            "id": "drinking-water",
+            "name": "Drinking water"
+        },
+        {
             "id": "bar",
             "name": "Bar"
         }
