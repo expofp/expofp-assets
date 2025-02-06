@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Icons</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+                background: #f4f4f4;
+                margin: 0;
+            }
+
+            .container {
+                width: 80%;
+                max-width: 1200px;
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+                gap: 20px;
+            }
+
+            .icon-box {
+                text-align: center;
+                background: #ffffff;
+                padding: 10px;
+                border-radius: 12px;
+                box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+            }
+
+            .icon-box img {
+                width: 64px;
+                height: 64px;
+                display: block;
+                margin: 0 auto;
+            }
+
+            .icon-box .small-icon {
+                width: 32px;
+                height: 32px;
+                margin-top: 5px;
+            }
+
+            .icon-box p {
+                margin: 14px 0 0;
+                font-size: 14px;
+                color: #7f7f7f;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container" id="iconsContainer"></div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", async () => {
+                try {
+                    const response = await fetch("icons/icons.json");
+                    const data = await response.json();
+
+                    const container = document.getElementById("iconsContainer");
+
+                    data.icons.forEach((icon) => {
+                        const iconBox = document.createElement("div");
+                        iconBox.classList.add("icon-box");
+
+                        iconBox.innerHTML = `
+                            <img src="icons/${icon.id}.svg" alt="${icon.name}">
+                            <img src="icons/${icon.id}-sm.svg" alt="${icon.name} Small" class="small-icon">
+                            <p>${icon.name}</p>
+                        `;
+
+                        container.appendChild(iconBox);
+                    });
+                } catch (error) {
+                    console.error("Error loading icons", error);
+                }
+            });
+        </script>
+    </body>
+</html>
