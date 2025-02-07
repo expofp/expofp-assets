@@ -1,76 +1,119 @@
 {
-    "icons": [
-        {
+    "icons": [{
             "id": "coffee",
             "name": "Coffee"
-        },
-        {
+        }, {
             "id": "restaurant",
             "name": "Restaurant"
-        },
-        {
+        }, {
             "id": "food",
             "name": "Food"
-        },
-        {
+        }, {
             "id": "toilets",
             "name": "Toilets"
-        },
-        {
+        }, {
             "id": "male-toilet",
             "name": "Male toilet"
-        },
-        {
+        }, {
             "id": "woman-toilet",
             "name": "Woman toilet"
-        },
-        {
+        }, {
             "id": "entrance",
             "name": "Entrance"
-        },
-        {
+        }, {
             "id": "sanitizer",
             "name": "Sanitizer"
-        },
-        {
+        }, {
             "id": "lounge",
             "name": "Lounge"
-        },
-        {
+        }, {
             "id": "elevator",
             "name": "Elevator"
-        },
-        {
+        }, {
             "id": "info-booth",
             "name": "Info booth"
-        },
-        {
+        }, {
             "id": "registration",
             "name": "Registration"
-        },
-        {
+        }, {
             "id": "escalator-up",
             "name": "Escalator up"
-        },
-        {
+        }, {
             "id": "escalator-down",
             "name": "Escalator down"
-        },
-        {
+        }, {
             "id": "escalator",
             "name": "Escalator"
-        },
-        {
+        }, {
             "id": "stairs",
             "name": "Stairs"
-        },
-        {
+        }, {
             "id": "drinking-water",
             "name": "Drinking water"
-        },
-        {
+        }, {
             "id": "bar",
             "name": "Bar"
+        }, {
+            "id": "yah",
+            "name": "You are here"
+        }, {
+            "id": "yah_2",
+            "name": "You are here 2"
+        }, {
+            "id": "yah_3",
+            "name": "You are here 3"
+        }, {
+            "id": "compass",
+            "name": "Compass"
+        }, {
+            "id": "info",
+            "name": "Info"
+        }, {
+            "id": "live-music",
+            "name": "Live music"
+        }, {
+            "id": "kiosk",
+            "name": "Kiosk"
+        }, {
+            "id": "hotel",
+            "name": "Hotel"
+        }, {
+            "id": "parking",
+            "name": "Parking"
+        }, {
+            "id": "exit",
+            "name": "Exit"
+        }, {
+            "id": "entrance_1",
+            "name": "Main entrance"
+        }, {
+            "id": "meeting-area",
+            "name": "Meeting area"
+        }, {
+            "id": "coat-check",
+            "name": "Coat check"
+        }, {
+            "id": "emergency-exit",
+            "name": "Emergency exit"
+        }, {
+            "id": "fire-hose",
+            "name": "Fire hose"
+        }, {
+            "id": "medics",
+            "name": "Medics"
+        }, {
+            "id": "handicap",
+            "name": "Handicap"
+        }, {
+            "id": "phone-charge",
+            "name": "Phone charge"
+        }, {
+            "id": "electrical-outlet",
+            "name": "Electrical outlet"
+        }, {
+            "id": "ducts",
+            "name": "Ducts"
         }
+
     ]
 }
