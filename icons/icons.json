@@ -113,7 +113,28 @@
         }, {
             "id": "ducts",
             "name": "Ducts"
+        },
+        {
+            "id": "chair",
+            "name": "Chair"
+        }, {
+            "id": "rectangle_table_2",
+            "name": "Rectangle table 2"
+        }, {
+            "id": "rectangle_table_4",
+            "name": "Rectangle table 4"
+        }, {
+            "id": "rectangle_table_6",
+            "name": "Rectangle table 6"
+        }, {
+            "id": "round_table_2",
+            "name": "Round table 2"
+        }, {
+            "id": "round_table_4",
+            "name": "Round table 4"
+        }, {
+            "id": "round_table_6",
+            "name": "Round table 6"
         }
-
     ]
 }
