@@ -88,7 +88,7 @@
             "name": "Main entrance"
         }, {
             "id": "meeting-area",
-            "name": "Meeting area"
+            "name": "Meeting room"
         }, {
             "id": "coat-check",
             "name": "Coat check"
@@ -113,8 +113,7 @@
         }, {
             "id": "ducts",
             "name": "Ducts"
-        },
-        {
+        }, {
             "id": "chair",
             "name": "Chair"
         }, {
