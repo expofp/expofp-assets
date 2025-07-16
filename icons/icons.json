@@ -16,7 +16,7 @@
             "name": "Male toilet"
         }, {
             "id": "woman-toilet",
-            "name": "Woman toilet"
+            "name": "Female toilet"
         }, {
             "id": "entrance",
             "name": "Entrance"
@@ -106,7 +106,7 @@
             "name": "Handicap"
         }, {
             "id": "phone-charge",
-            "name": "Phone charge"
+            "name": "Charge"
         }, {
             "id": "electrical-outlet",
             "name": "Electrical outlet"
