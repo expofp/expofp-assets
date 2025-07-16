@@ -108,12 +108,6 @@
             "id": "phone-charge",
             "name": "Charge"
         }, {
-            "id": "electrical-outlet",
-            "name": "Electrical outlet"
-        }, {
-            "id": "ducts",
-            "name": "Ducts"
-        }, {
             "id": "chair",
             "name": "Chair"
         }, {
