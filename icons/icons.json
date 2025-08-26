@@ -25,7 +25,7 @@
             "name": "Sanitizers"
         }, {
             "id": "lounge",
-            "name": "Lounge"
+            "name": "Lounges"
         }, {
             "id": "elevator",
             "name": "Elevators"
@@ -82,13 +82,13 @@
             "name": "Parking"
         }, {
             "id": "exit",
-            "name": "Exit"
+            "name": "Exits"
         }, {
             "id": "entrance_1",
-            "name": "Main entrance"
+            "name": "Main entrances"
         }, {
             "id": "meeting-area",
-            "name": "Meeting room"
+            "name": "Meeting rooms"
         }, {
             "id": "coat-check",
             "name": "Coat checks"
