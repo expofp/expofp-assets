@@ -1,10 +1,10 @@
 {
     "icons": [{
             "id": "coffee",
-            "name": "Coffee"
+            "name": "Coffee shops"
         }, {
             "id": "restaurant",
-            "name": "Restaurant"
+            "name": "Catering"
         }, {
             "id": "food",
             "name": "Food"
@@ -13,22 +13,22 @@
             "name": "Toilets"
         }, {
             "id": "male-toilet",
-            "name": "Male toilet"
+            "name": "Toilets Male"
         }, {
             "id": "woman-toilet",
-            "name": "Female toilet"
+            "name": "Toilets Female"
         }, {
             "id": "entrance",
             "name": "Entrance"
         }, {
             "id": "sanitizer",
-            "name": "Sanitizer"
+            "name": "Sanitizers"
         }, {
             "id": "lounge",
             "name": "Lounge"
         }, {
             "id": "elevator",
-            "name": "Elevator"
+            "name": "Elevators"
         }, {
             "id": "info-booth",
             "name": "Info booth"
@@ -37,22 +37,22 @@
             "name": "Registration"
         }, {
             "id": "escalator-up",
-            "name": "Escalator up"
+            "name": "Escalators up"
         }, {
             "id": "escalator-down",
-            "name": "Escalator down"
+            "name": "Escalators down"
         }, {
             "id": "escalator",
-            "name": "Escalator"
+            "name": "Escalators"
         }, {
             "id": "stairs",
             "name": "Stairs"
         }, {
             "id": "drinking-water",
-            "name": "Drinking water"
+            "name": "Water fountains"
         }, {
             "id": "bar",
-            "name": "Bar"
+            "name": "Bars"
         }, {
             "id": "yah",
             "name": "You are here"
@@ -73,10 +73,10 @@
             "name": "Live music"
         }, {
             "id": "kiosk",
-            "name": "Kiosk"
+            "name": "Kiosks"
         }, {
             "id": "hotel",
-            "name": "Hotel"
+            "name": "Hotels"
         }, {
             "id": "parking",
             "name": "Parking"
@@ -91,13 +91,13 @@
             "name": "Meeting room"
         }, {
             "id": "coat-check",
-            "name": "Coat check"
+            "name": "Coat checks"
         }, {
             "id": "emergency-exit",
-            "name": "Emergency exit"
+            "name": "Emergency exits"
         }, {
             "id": "fire-hose",
-            "name": "Fire hose"
+            "name": "Fire hoses"
         }, {
             "id": "medics",
             "name": "Medics"
@@ -106,7 +106,7 @@
             "name": "Handicap"
         }, {
             "id": "phone-charge",
-            "name": "Charge"
+            "name": "Charges"
         }, {
             "id": "chair",
             "name": "Chair"
